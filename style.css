@@ -1,0 +1,47 @@
+/* 
+blau: #68bceb
+grün: #80cc28
+*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+    border: none;
+}
+
+html {
+    background-color: #e8e8e8; 
+	color: #111;
+    font-family: News Gothic MT, Helvetica, Arial, sans-serif;
+}
+#header {
+	width:80%;
+	padding: 10px 15px 0px 0px;
+	margin: 30px 10px 20px 10px;
+	font-weight: normal;
+}
+
+#header h1 {
+	margin: 30px 0px 30px 0px;
+}
+
+#content {
+    margin: 0px 1.3em;
+	height:auto;
+	width:80%;
+	float:center;
+}
+
+#content h2, #content p {
+    margin: 1em 0px;
+}
+
+#content h2 {
+    color: #68bceb;
+}
+
+#footer {
+	margin: 50px 0px 0px 0px;
+	background-color: #68bceb;
+	clear:both;
+}
